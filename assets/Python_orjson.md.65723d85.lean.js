@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.dc38a072.js";const C=JSON.parse('{"title":"orjson \u5FEB\u901F\u4F7F\u7528","description":"","frontmatter":{},"headers":[],"relativePath":"Python/orjson.md"}'),l={name:"Python/orjson.md"},o=p("",26),e=[o];function c(F,r,t,D,y,A){return a(),n("div",null,e)}var d=s(l,[["render",c]]);export{C as __pageData,d as default};
